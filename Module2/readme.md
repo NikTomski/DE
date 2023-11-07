@@ -1,13 +1,3 @@
-# Задание для модуля 2
-
-```
-Результаты домашней работы загружайте к себе в git репозиторий. Создайте папки
-DE-101/Module2/
-...
-И сохраняйте там результат.
-```
-
-## Установка БД (Windows)
 # Установка Postgres
 1. Ищем в браузере "postgres download"
 
@@ -114,7 +104,7 @@ DE-101/Module2/
 
 ![image](https://github.com/NikTomski/data-engineering/assets/142725457/8884729e-2c6b-4312-aac2-2e78d7417d2e)
 
-## Загрузка данных в БД (Windows, DBeaver, Postgres)
+# Загрузка данных в БД (Windows, DBeaver, Postgres)
 
 1. Запускаем DBeaver
 
@@ -195,7 +185,7 @@ DE-101/Module2/
 
 ![image](https://github.com/NikTomski/data-engineering/assets/142725457/42a8eeb7-38bf-4fa6-8d30-9032791615ff)
 
-## SQL запросы
+# SQL запросы
 
 1. Overview (обзор ключевых метрик)
   - Total Sales
@@ -311,7 +301,7 @@ GROUP BY region
 
 ![image](https://github.com/NikTomski/data-engineering/assets/142725457/a7ad65d7-ccaa-4f8f-a557-6a4dbf86010e)
 
-## Нарисовать модель данных в SQLdbm
+# Нарисовать модель данных в SQLdbm
 
 Концептуальная модель данных
 
@@ -321,11 +311,13 @@ GROUP BY region
 
 ![image](https://github.com/NikTomski/data-engineering/assets/142725457/42c11494-948f-4aa5-ba9d-d4590caced53)
 
-## Нарисовать графики в Google Sheets
+# Дашборд в Google Looker Studio (https://lookerstudio.google.com/s/kO_RHeg4RJU)
 
-## Нарисовать графики в KlipFolio
+![image](https://github.com/NikTomski/DE/assets/142725457/6007b5bf-84d7-4281-8a95-613299ed1016)
 
-## Дашборд в Yandex DataLens (https://datalens.yandex/7m4jdxdtpip8w)
+# Нарисовать графики в KlipFolio
+
+# Дашборд в Yandex DataLens (https://datalens.yandex/7m4jdxdtpip8w)
 
 ![image](https://github.com/NikTomski/data-engineering/assets/142725457/f85c2533-3eb4-423a-8943-09f942a7bda7)
 
