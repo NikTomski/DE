@@ -315,7 +315,9 @@ GROUP BY region
 
 ![image](https://github.com/NikTomski/DE/assets/142725457/6007b5bf-84d7-4281-8a95-613299ed1016)
 
-# Нарисовать графики в KlipFolio
+# Дашборд в KlipFolio (триал-версия с ограниченными возможностями, поэтому данные разнятся (ограничение даты), а так же нет возможности дать ссылку на просмотр, только моя собственная https://app.klipfolio.com/trends/dashboard/dfba5925a75d641b3d65d267315586bd)
+
+![image](https://github.com/NikTomski/DE/assets/142725457/36f37cdc-6a65-400d-912c-42524ef4131c)
 
 # Дашборд в Yandex DataLens (https://datalens.yandex/7m4jdxdtpip8w)
 
