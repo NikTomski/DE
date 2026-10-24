@@ -1,4 +1,4 @@
-# SQL запросы
+# SQL queries
 
 1. Overview
   - Total Sales
@@ -73,8 +73,8 @@ FROM orders
 
 ![image](https://github.com/NikTomski/data-engineering/assets/142725457/97b4c68c-adc6-4d50-be97-786e03857216)
 
- 2. Product Dashboard (Продуктовые метрики)
-  - Sales by Product Category over time (Продажи по категориям)
+ 2. Product Dashboard
+  - Sales by Product Category over time 
 
 ```
 SELECT category, SUM(sales) 
