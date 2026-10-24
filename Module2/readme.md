@@ -124,11 +124,11 @@ GROUP BY region
 
 ![image](https://github.com/NikTomski/data-engineering/assets/142725457/42c11494-948f-4aa5-ba9d-d4590caced53)
 
-# [Dashboard in Google Looker Studio](https://lookerstudio.google.com/s/kO_RHeg4RJU)
+# [Dashboard in Google Looker Studio](https://lookerstudio.google.com/s/kO_RHeg4RJU) (no DB connection)
 
 ![image](https://github.com/NikTomski/DE/assets/142725457/6007b5bf-84d7-4281-8a95-613299ed1016)
 
-# [Dashboard in Yandex DataLens](https://datalens.yandex/7m4jdxdtpip8w)
+# [Dashboard in Yandex DataLens](https://datalens.yandex/7m4jdxdtpip8w) (no DB connection)
 
 ![image](https://github.com/NikTomski/data-engineering/assets/142725457/f85c2533-3eb4-423a-8943-09f942a7bda7)
 
