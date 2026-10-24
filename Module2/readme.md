@@ -116,19 +116,19 @@ GROUP BY region
 
 # Draw a Data Model in SQLdbm
 
-Conceptual Data Model
+  Conceptual Data Model
 
 ![image](https://github.com/NikTomski/data-engineering/assets/142725457/4391a9aa-caeb-4c16-a6d5-e7c3a2573d4f)
 
-Physical (Logical) Data Model 
+  Physical (Logical) Data Model 
 
 ![image](https://github.com/NikTomski/data-engineering/assets/142725457/42c11494-948f-4aa5-ba9d-d4590caced53)
 
-# Dashboard in Google Looker Studio (https://lookerstudio.google.com/s/kO_RHeg4RJU)
+# [Dashboard in Google Looker Studio](https://lookerstudio.google.com/s/kO_RHeg4RJU)
 
 ![image](https://github.com/NikTomski/DE/assets/142725457/6007b5bf-84d7-4281-8a95-613299ed1016)
 
-# Dashboard in Yandex DataLens (https://datalens.yandex/7m4jdxdtpip8w)
+# [Dashboard in Yandex DataLens](https://datalens.yandex/7m4jdxdtpip8w)
 
 ![image](https://github.com/NikTomski/data-engineering/assets/142725457/f85c2533-3eb4-423a-8943-09f942a7bda7)
 
